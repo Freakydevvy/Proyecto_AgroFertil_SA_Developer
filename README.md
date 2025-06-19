@@ -1,2 +1,1 @@
-# Proyecto_AgroFertil_SA_Developer
-Proyecto de estudiantes DuocUC 
+Este Branch esta destinado a mostrar las pruebas de funciones del software.
