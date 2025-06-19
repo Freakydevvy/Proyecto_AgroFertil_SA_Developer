@@ -1,2 +1,2 @@
-# Proyecto_AgroFertil_SA_Developer
-Proyecto de estudiantes DuocUC 
+# Desarrollo del Codigo
+En esta branch se mostrara la creacion de el codigo base de nuestro software.
